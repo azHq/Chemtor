@@ -1,0 +1,1 @@
+<td class="text-center row-clickable">{{$slot}}</td>
